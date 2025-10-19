@@ -1,8 +1,8 @@
 import java.util.*;
 public class tcheck16 {
     public static void main(String[] args) {
- Scanner sc = new Scanner(System.in);
-        int side1 = sc.nextInt();
+    Scanner sc = new Scanner(System.in);
+    int side1 = sc.nextInt();
 	int side2 = sc.nextInt();
 	int side3 = sc.nextInt();
    
